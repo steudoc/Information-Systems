@@ -36,7 +36,7 @@ There are no changes compared to the As Is document.
 
 ### Processes
 
-TO DO : aggiungere BPMN
+![BPMN for accommodation organizations process (to be)](images/pandora_BPMN_to_be.png)
 
 | Activity in BPMN | Supporting Software functions |
 | --- | --- |
@@ -105,7 +105,7 @@ TO DO : Alternatively argue that the new application should be developed custom 
 
 ### Hardware software architecture
 
-TO DO : aggiungere diagramma
+![pandora deployment diagram (to be)](images/pandora_deployment_to_be.png)
 
 ### Integration
 

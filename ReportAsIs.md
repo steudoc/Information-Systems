@@ -20,7 +20,7 @@ Pandora is categorized as APS (Associazione di Promozione Sociale), so there are
 Turn over of 2025: 240.000 €
 
 # Business Model Canvas
-TO DO Remark: key processes box must be consistent with Process dimension (below)
+![pandora business model canvas](images/pandora_BMC.png)
 
 # IS Dimensions
 
@@ -72,7 +72,7 @@ Responsible inclusivity: Diversity and inclusion are not only values but operati
 
 ### Structure
 
-TO DO : aggiungere l'organizational chart
+![pandora organizational structure](images/pandora_org_structure.png)
 
 The organization exhibits a <u>functional</u> structure, each role covers a distinct operational domain (artistic, logistical, technical, administrative, marketing).
 There is no divisional or geographical subdivision, as the entire festival takes place in a single location.
@@ -104,7 +104,7 @@ There is a low level of formalization and a high level of collaboration, allowin
 
 ### Conceptual data model
 
-TO DO aggiungere uml diagram
+![pandora data model](images/pandora_data_model.png)
 
 ### Processes
 
@@ -121,8 +121,7 @@ List and describe key processes
 
 #### BPMN - Process “Accommodations organizations”
 
-
-TO DO aggiungere il BPMN diagram
+![BPMN for accommodation organizations process (as is)](images/pandora_BPMN_as_is.png)
 
 ## Technology dimension
 
@@ -144,7 +143,7 @@ TO DO aggiungere il BPMN diagram
 
 ### Hardware software architecture
 
-TO DO : aggiungere UML deployment diagram
+![pandora deployment diagram (as is)](images/pandora_deployment_as_is.png)
 
 ### IT strategy
 
