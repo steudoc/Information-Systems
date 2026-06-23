@@ -174,19 +174,29 @@ Overall, the current IT strategy is coherent with the company strategy in terms 
 
 ## KPI
 TO DO : chiedere a mauro i valori dei kpi e inserire i kpi nella tabella
-### Process X
 
-(Process name must be consistent with Process dimension)
+### Accommodations organization
 
-KPI table for process X
+| KPI Name | Type | Description | Unit of Measure | CSF Covered | Current Value |
+|-----------|------|-------------|-----------------|-------------|---------------|
+| Total rooms cost | General | Cost of allocated rooms | Euro | 1.1 | |
+| Accommodation organization time | Efficiency | Number of hours needed to map all accommodation requests to final accommodation rooms. The lower the better. | Hours | 1.1 | |
+| Room utilization | Efficiency | Total number of people divided by maximum possible people that can be allocated to all rooms. This value is between 0 and 1; the closer to 1, the better. | % | 1.1 | - |
+| Empty rooms cost | Efficiency | Cost of unutilized rooms that were booked but not allocated. The closer to 0, the better. | Euro | 1.1 | |
+| Extra rooms cost | Efficiency | Cost of rooms that were not booked in the first stage but were actually needed (so rooms were booked at a later time, usually at a higher price). The closer to 0, the better. | Euro | 1.1 | |
+| Roommates request unsatisfied | Quality | Number of roommates requests that are not satisfied by the room allocation divided by the total number of roommates requests. This value is between 0 and 1; the closer to 0, the better. | % | 1 | |
 
-| KPI name | KPI type (general, service..) | description | Unit of measure | CSF covered (if any) | Current value (if available) |
-| --- | --- | --- | --- | --- | --- |
-| ||||||
+### Customer help and communication
 
-### Process Y
-
-To be repeated for each relevant process (notably processes that will be changed in To Be)
+| KPI Name | Type | Description | Unit of Measure | CSF Covered | Current Value |
+|-----------|------|-------------|-----------------|-------------|---------------|
+| Participant satisfaction score | Quality | Value between 0 and 5 stars assigned at the end of the festival by each participant. This metric is computed by averaging the ratings across all participants who completed the survey. | Real number | 1 | |
+| Satisfaction survey affluence | Quality | Number of participants who completed the satisfaction survey divided by the total number of participants. This value is between 0 and 1; the closer to 1, the better. | % | | |
+| Questions asked to organizers per participant | Quality | Number of questions asked by participants directly to festival organizers, divided by the number of participants. The closer to 0, the better. | % | 3.1 | |
+| Resolutive answers percentage | Quality | Number of answers provided to participants that were found to be useful, divided by the total number of answers provided. | % | 3.1 | |
+| Answer response time | Service | Time that passes from a question being asked to one of the organizers reading the question. The value is computed by summing all response times and dividing by the number of answers. The closer to 0, the better. | Hours | 1, 3.1 | |
+| Answer cycle time | Service | Time that passes from a question being asked to the answer being delivered. The value is computed by summing all cycle times and dividing by the number of answers. The closer to 0, the better. | Hours | 1, 3.1 | |
+| Communication ignore rate | Quality | Number of communication recipients that ignored a communication divided by the total number of recipients. This metric is computed by averaging across all communications and its value is between 0 and 1; the closer to 0, the better. | % | 3.1 | |
 
 # Summary analysis
 

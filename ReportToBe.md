@@ -76,9 +76,6 @@ The CBC solver was decided to be the best option among these three; the selectio
 | **Total score** |                                   |        | **92** | **100** | **88** |
 
 
-TO DO : Alternatively argue that the new application should be developed custom for the company.
-    Secondo me bisogna spiegare bene la nostra idea dell'applicazione personalizzata.
-
 ### Coverage
 
 | Software function needed (from process view) | Software function provided by application selected | Gap analysis |
