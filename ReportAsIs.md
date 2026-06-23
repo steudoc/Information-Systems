@@ -1,4 +1,33 @@
-# Model of Organization – as is
+# Model of Organization – AS IS
+
+# Contents
+- [Identification](#identification)
+- [Financial and legal information](#financial-and-legal-information)
+- [Business Model Canvas](#business-model-canvas)
+- [IS Dimensions](#is-dimensions)
+    - [Social system](#social-system)
+        - [Size](#size)
+        - [Products, services](#products-services)
+        - [Goal, goal type, mission, vision, strategy](#goal-goal-type-mission-vision-strategy)
+        - [Culture](#culture)
+        - [Structure](#structure)
+        - [IT/IS group / office](#itis-group--office)
+        - [Formalization, specialization, centralization](#formalization--specialization-centralization)
+        - [Organizational type](#organizational-type)
+    - [Process dimension](#process-dimension)
+        - [Conceptual data model](#conceptual-data-model)
+        - [Processes](#processes)
+        - [BPMN - Process “Accommodations organizations”](#bpmn---process-accommodations-organizations)
+    - [Technology dimension](#technology-dimension)
+        - [Application portfolio](#application-portfolio)
+        - [Hardware software achitecture](#hardware-software-architecture)
+        - [IT strategy](#it-strategy)
+- [Indicators](#indicators)
+    - [CSF](#csf)
+    - [KPI](#kpi)
+        - [Accomodation organization](#accommodations-organization)
+        - [Customer help and communication](#customer-help-and-communication)
+- [Summary analysis](#summary-analysis)
 
 # Identification
 
