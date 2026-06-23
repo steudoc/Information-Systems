@@ -1,4 +1,22 @@
-# Model of Organization – To Be
+# Model of Organization – TO BE
+
+# Contents
+- [Summary of changes](#summary-of-changes)
+  - [Process "Accomodation organization"](#process-accommodation-organization)
+  - [Process "Customer help and communication"](#process-customer-help-and-communication)
+- [Business Model Canvas](#business-model-canvas)
+- [IS Dimensions](#is-dimensions)
+- [Effect of change(s)](#effect-of-changes)
+  - [Effect on KPIs and CSFs](#effect-on-kpis-and-csfs)
+  - [TCO, ROI and Break even](#tco-roi-and-break-even)
+    - [Cost elements (worst case)](#cost-elements-worst-case)
+    - [Break even point analysis](#break-even-point-analysis)
+      - [Estimate costs over 5 years period (worst case)](#estimate-costs-over-5-years-period-worst-case)
+      - [Estimate cost savings over 5 years (worst case)](#estimate-costs-savings-over-5-years-worst-case)
+      - [Break even point](#break-even-point)
+    - [ROI](#roi)
+- [Change management plan](#change-management-plan)
+- [Conclusion](#conclusion)
 
 # Summary of changes
 
