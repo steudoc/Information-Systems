@@ -204,7 +204,7 @@ Overall, the current IT strategy is coherent with the company strategy in terms 
  
 
 ## KPI
-TO DO : chiedere a mauro i valori dei kpi e inserire i kpi nella tabella
+TO DO : revisionare
 
 ### Accommodations organization
 
@@ -212,10 +212,10 @@ TO DO : chiedere a mauro i valori dei kpi e inserire i kpi nella tabella
 |-----------|------|-------------|-----------------|-------------|---------------|
 | Total rooms cost | General | Cost of allocated rooms | Euro | 1.1 | 114.000 € (with meals included)|
 | Accommodation organization time | Efficiency | Number of hours needed to map all accommodation requests to final accommodation rooms. The lower the better. | Hours | 1.1 | 35h of normal organization + 6h to manage unexpected events |
-| Room utilization | Efficiency | Total number of people divided by maximum possible people that can be allocated to all rooms. This value is between 0 and 1; the closer to 1, the better. | % | 1.1 | &asymp; 1 |
+| Room utilization | Efficiency | Total number of people divided by maximum possible people that can be allocated to all rooms. This value is between 0 and 1; the closer to 1, the better. | % | 1.1 | &asymp; 100% |
 | Empty rooms cost | Efficiency | Cost of unutilized rooms that were booked but not allocated. The closer to 0, the better. | Euro | 1.1 | &asymp; 360 €|
 | Extra rooms cost | Efficiency | Cost of rooms that were not booked in the first stage but were actually needed (so rooms were booked at a later time, usually at a higher price). The closer to 0, the better. | Euro | 1.1 | &asymp; 1000 €|
-| Roommates request unsatisfied | Quality | Number of roommates requests that are not satisfied by the room allocation divided by the total number of roommates requests. This value is between 0 and 1; the closer to 0, the better. | % | 1 | &asymp; 0 (maximum of 5-10 unsatisfied request ) |
+| Roommates request unsatisfied | Quality | Number of roommates requests that are not satisfied by the room allocation divided by the total number of roommates requests. This value is between 0 and 1; the closer to 0, the better. | % | 1 | &asymp; 1% (maximum of 5-10 unsatisfied request ) |
 
 ### Customer help and communication
 
@@ -223,11 +223,11 @@ TO DO : chiedere a mauro i valori dei kpi e inserire i kpi nella tabella
 |-----------|------|-------------|-----------------|-------------|---------------|
 | Participant satisfaction score | Quality | Value between 0 and 5 stars assigned at the end of the festival by each participant. This metric is computed by averaging the ratings across all participants who completed the survey. | Real number | 1 | 4/5 |
 | Satisfaction survey affluence | Quality | Number of participants who completed the satisfaction survey divided by the total number of participants. This value is between 0 and 1; the closer to 1, the better. | % | | $\frac{250}{526}$ &asymp; 48% |
-| Questions asked to organizers per participant | Quality | Number of questions asked by participants directly to festival organizers, divided by the number of participants. | % | 3.1 | incalculable, too many questions during every day of the festival |
-| Effort in answering questions | Quality | Time spent answering questions divided by number of people answering | hours per person | 3.1 | $\frac{18_h * 4 }{1}$ = 72 h per person |
+| Questions asked to organizers per participant | Quality | Number of questions asked by participants directly to festival organizers, divided by the number of participants. | Real number | 3.1 | Currently hard to compute: too many questions during each day of the festival |
 | Resolutive answers percentage | Quality | Number of answers provided to participants that were found to be useful, divided by the total number of answers provided. | % | 3.1 | 100% |
-| Answer response time | Service | Time that passes from a question being asked to one of the organizers reading the question. The value is computed by summing all response times and dividing by the number of answers. The closer to 0, the better. | Hours | 1, 3.1 | Less than 5 minutes |
-| Answer cycle time | Service | Time that passes from a question being asked to the answer being delivered. The value is computed by summing all cycle times and dividing by the number of answers. The closer to 0, the better. | Hours | 1, 3.1 | Hard to estimate |
+| Effort in answering questions | Efficiency | Effort spent in answering questions | Person hours | 3.1 | ${18_h * 4 * 1 }$ = 72 person hours |
+| Answer response time | Service | Time that passes from a question being asked to one of the organizers reading the question. The value is computed by summing all response times and dividing by the number of answers. The closer to 0, the better. | Time | 1, 3.1 | Less than 5 minutes |
+| Answer cycle time | Service | Time that passes from a question being asked to the answer being delivered. The value is computed by summing all cycle times and dividing by the number of answers. The closer to 0, the better. | Time | 1, 3.1 | Currently hard to compute |
 | Communication ignore rate | Quality | Number of communication recipients that ignored a communication divided by the total number of recipients. This metric is computed by averaging across all communications and its value is between 0 and 1; the closer to 0, the better. | % | 3.1 | 70% |
 
 # Summary analysis
