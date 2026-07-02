@@ -7,7 +7,7 @@
 - [Financial and legal information](#financial-and-legal-information)
 - [Business Model Canvas](#business-model-canvas)
 - [IS Dimensions](#is-dimensions)
-  - [Social system](#social-system-dimension)
+  - [Social system dimension](#social-system-dimension)
     - [Size](#size)
     - [Products, services](#products-services)
     - [Goal, goal type, mission, vision, strategy](#goal-goal-type-mission-vision-strategy)
