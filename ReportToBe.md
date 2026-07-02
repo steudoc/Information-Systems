@@ -45,7 +45,9 @@ In the following sections of the document only the change to “Accommodation or
 There are no changes compared to the As Is document.
 
 # IS Dimensions
-There are no changes compared to the As Is document.
+
+## Social system dimension
+There are no changes compared to the As Is document, only Process and Technology dimensions are affected.
 
 ## Process dimension
 

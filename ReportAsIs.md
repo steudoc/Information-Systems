@@ -7,7 +7,7 @@
 - [Financial and legal information](#financial-and-legal-information)
 - [Business Model Canvas](#business-model-canvas)
 - [IS Dimensions](#is-dimensions)
-  - [Social system](#social-system)
+  - [Social system](#social-system-dimension)
     - [Size](#size)
     - [Products, services](#products-services)
     - [Goal, goal type, mission, vision, strategy](#goal-goal-type-mission-vision-strategy)
@@ -58,7 +58,7 @@ Turn over of 2025: 240.000 €
 According to the definition of Piccoli and Pigni, an IS has four dimensions. In the following they are described under sections Social system (Structure and People), Process, Technology.
 
 
-## Social system
+## Social system dimension
 
 ### Size
 
@@ -117,7 +117,7 @@ Pandora operates without a centralized IT department, utilizing a hybrid managem
  
 IT expenditure for 2025 was 4.000€.
 
-$ \frac{expense \ in \ IT}{turn \ over} = \frac{4.000 €}{240.000 €} = 1.66 \ \% $
+$$ \frac{expense \ in \ IT}{turn \ over} = \frac{4.000 €}{240.000 €} = 1.66 \ \% $$
 
 ### Formalization / specialization/ centralization
 
