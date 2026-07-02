@@ -204,7 +204,6 @@ Overall, the current IT strategy is coherent with the company strategy in terms 
  
 
 ## KPI
-TO DO : revisionare
 
 ### Accommodations organization
 
