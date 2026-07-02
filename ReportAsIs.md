@@ -210,7 +210,7 @@ Overall, the current IT strategy is coherent with the company strategy in terms 
 | KPI Name | Type | Description | Unit of Measure | CSF Covered | Current Value |
 |-----------|------|-------------|-----------------|-------------|---------------|
 | Total rooms cost | General | Cost of allocated rooms | Euro | 1.1 | 84.000 € |
-| Accommodation organization time | Efficiency | Number of hours needed to map all accommodation requests to final accommodation rooms. The lower the better. | Hours | 1.1 | 35h of normal organization + 6h to manage unexpected events |
+| Accommodation organization time | Efficiency | Number of hours needed to map all accommodation requests to final accommodation rooms. The lower the better. | Time | 1.1 | 35h of normal organization + 6h to manage unexpected events |
 | Room utilization | Efficiency | Total number of people divided by maximum possible people that can be allocated to all rooms. This value is between 0 and 1; the closer to 1, the better. | % | 1.1 | &asymp; 100% |
 | Empty rooms cost | Efficiency | Cost of unutilized rooms that were booked but not allocated. The closer to 0, the better. | Euro | 1.1 | &asymp; 360 €|
 | Extra rooms cost | Efficiency | Cost of rooms that were not booked in the first stage but were actually needed (so rooms were booked at a later time, usually at a higher price). The closer to 0, the better. | Euro | 1.1 | &asymp; 1000 €|
